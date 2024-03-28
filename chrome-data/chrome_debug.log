@@ -1,0 +1,9 @@
+[21240:19244:0327/204034.197:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 122.0.6261.131 (not a warning)
+[21240:19244:0327/204034.240:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[21240:19244:0327/204034.240:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[21240:19244:0327/204035.008:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[21240:19244:0327/204035.008:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'attribution-reporting'.", source:  (0)
+[21240:19244:0327/205418.585:INFO:CONSOLE(0)] "Blocked attempt to show a 'beforeunload' confirmation panel for a frame that never had a user gesture since its load. https://www.chromestatus.com/feature/5082396709879808", source: https://web.whatsapp.com/ (0)
+[21240:19244:0327/205418.844:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[21240:19244:0327/205418.844:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'attribution-reporting'.", source:  (0)
+[21240:19244:0327/233038.702:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

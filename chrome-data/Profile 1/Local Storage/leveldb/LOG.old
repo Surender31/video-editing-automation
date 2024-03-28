@@ -1,0 +1,24 @@
+2024/03/27-16:50:36.663 423c Reusing MANIFEST C:\Users\THAAGAM\Desktop\homeless_video_sent_bot\chrome-data\Profile 1\Local Storage\leveldb/MANIFEST-000001
+2024/03/27-16:50:36.666 423c Recovering log #28989
+2024/03/27-16:50:36.668 423c Reusing old log C:\Users\THAAGAM\Desktop\homeless_video_sent_bot\chrome-data\Profile 1\Local Storage\leveldb/028989.log 
+2024/03/27-17:10:33.682 382c Level-0 table #28993: started
+2024/03/27-17:10:33.697 382c Level-0 table #28993: 18100 bytes OK
+2024/03/27-17:10:33.703 382c Delete type=0 #28989
+2024/03/27-17:50:56.370 382c Level-0 table #28995: started
+2024/03/27-17:50:56.388 382c Level-0 table #28995: 13803 bytes OK
+2024/03/27-17:50:56.393 382c Delete type=0 #28992
+2024/03/27-17:50:56.393 382c Compacting 4@0 + 1@1 files
+2024/03/27-17:50:56.441 382c Generated table #28996@0: 26453 keys, 826329 bytes
+2024/03/27-17:50:56.441 382c Compacted 4@0 + 1@1 files => 826329 bytes
+2024/03/27-17:50:56.445 382c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/27-17:50:56.446 382c Delete type=2 #28986
+2024/03/27-17:50:56.446 382c Delete type=2 #28988
+2024/03/27-17:50:56.446 382c Delete type=2 #28990
+2024/03/27-17:50:56.446 382c Delete type=2 #28993
+2024/03/27-17:50:56.446 382c Delete type=2 #28995
+2024/03/27-18:17:07.244 382c Level-0 table #28998: started
+2024/03/27-18:17:07.798 382c Level-0 table #28998: 14638 bytes OK
+2024/03/27-18:17:07.815 382c Delete type=0 #28994
+2024/03/27-19:19:38.282 382c Level-0 table #29000: started
+2024/03/27-19:19:38.312 382c Level-0 table #29000: 13593 bytes OK
+2024/03/27-19:19:38.316 382c Delete type=0 #28997

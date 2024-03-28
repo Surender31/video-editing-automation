@@ -1,0 +1,16 @@
+[15080:30972:0809/133535.213:WARNING:chrome_main_delegate.cc(594)] This is Chrome version 115.0.5790.111 (not a warning)
+[15080:30972:0809/133535.263:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[15080:30972:0809/133535.263:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[15080:30972:0809/133536.426:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[15080:30972:0809/133541.982:ERROR:device_event_log_impl.cc(222)] [13:35:41.982] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+[15080:30972:0809/133545.228:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js (7)
+[15080:30972:0809/133545.230:INFO:CONSOLE(1)] "Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/WAWebWorker.9abe9bcd895d4ce9b9b7.worker.js (1)
+[15080:30972:0809/133558.927:WARNING:controller_impl.cc(1188)] Background download complete, client: 6, completion type: 0, file size:265059
+[15080:30972:0809/133559.096:WARNING:controller_impl.cc(1188)] Background download complete, client: 6, completion type: 0, file size:5082
+[15080:30972:0809/133559.434:WARNING:controller_impl.cc(1188)] Background download complete, client: 6, completion type: 0, file size:883094
+[15080:30972:0809/133559.517:WARNING:controller_impl.cc(1188)] Background download complete, client: 6, completion type: 0, file size:34481462
+[15080:30972:0809/133601.698:WARNING:controller_impl.cc(1188)] Background download complete, client: 6, completion type: 0, file size:45113
+[15080:30972:0809/133608.531:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[15080:30972:0809/133608.795:INFO:CONSOLE(1)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/serviceworker.js (1)
+[15080:30972:0809/133608.808:INFO:CONSOLE(7)] "Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.", source: https://web.whatsapp.com/vendor1~app.7f14216f970118f62a35.js (7)
+[15080:30972:0809/133758.746:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
